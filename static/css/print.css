@@ -1,0 +1,9 @@
+.md_print{
+font-family:font-awesome;
+}
+.md_print > .buttonicon {
+  top:2px!important;
+}
+.md_print > .buttonicon:before{
+  content:"\e801";
+}
